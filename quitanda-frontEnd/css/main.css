@@ -46,6 +46,20 @@ h6 {
     box-shadow: none;
 }
 
+
+/* Fix logo  */
+
+.logo {
+    padding: 0px;
+}
+
+.logo a>img {
+    height: 100%;
+    padding: 15px;
+    width: auto;
+    max-width: 150px;
+}
+
 .navbar-toggle {
     background-color: #000;
 }
